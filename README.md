@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madgcodes&label=Profile%20views&color=0e75b6&style=flat" alt="madgcodes" /> </p>
 
-- 🔭 I’m currently **a pre-final year Computer Engineering student (Hons. in AI & ML) at VESIT, Mumbai*cc*
+- 🎓 I’m currently a pre-final year Computer Engineering student (Hons. in AI & ML) at VESIT, Mumbai
+- 🧠 AI explorer | 💻 Full-stack developer |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
